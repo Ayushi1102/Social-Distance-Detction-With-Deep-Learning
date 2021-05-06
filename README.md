@@ -1,4 +1,10 @@
 # Social-Distance-Detction-With-Deep-Learning
 
-B4-1911129 - Ayushi Vaghela
+Name: Ayushi vaghela
+Class: SY-COMP-B
+Course: RDBMS
+Faculty name: PRDNYA BHANGALE
+College name: KJSCE VIDYAVIHAR
+
+**FOR EXECUTION**
 
